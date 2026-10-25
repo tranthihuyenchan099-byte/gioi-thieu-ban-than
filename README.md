@@ -1,7 +1,7 @@
 # gioi-thieu-ban-than
 # Trần Thị Huyền Chân
 
-![Ảnh đại diện]!(1792939230950_473424429467785377_4724759914260209569_adf6969c49b0889b0056acf89eddf00d-1.jpg)
+![Ảnh đại diện](1792939230950_473424429467785377_4724759914260209569_adf6969c49b0889b0056acf89eddf00d-1.jpg)
 ## Giới thiệu bản thân
 Xin chào! Mình là sinh viên ngành Sư phạm Tin học tại Trường Đại học Sư phạm, Đại học Huế. 
 
